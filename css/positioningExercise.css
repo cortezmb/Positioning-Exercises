@@ -1,16 +1,28 @@
 
 .twoColumns20{
         border: 1px solid red;
+        background-color: lightblue;
         position: absolute;
         width: 20%;
         text-align: center;
         height: 100%;
         line-height: 1000px;
+    }
 
+    .twoColumns80{
+        border: 1px solid blue;
+        background-color: lightgreen;
+        position: absolute;
+        width: 80%;
+        text-align: center;
+        height: 100%;
+        line-height: 1000px;
+        left: 20.4%;
     }
     
-.twoColumns80{
+.threeColumns60{
         border: 1px solid blue;
+        background-color: lightgreen;
         position: absolute;
         width: 60%;
         text-align: center;
@@ -21,6 +33,7 @@
 
     .thirdColumn20{
         border: 1px solid green;
+        background-color: lightcoral;
         position: absolute;
         width: 20%;
         text-align: center;
