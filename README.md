@@ -1,0 +1,2 @@
+# Positioning-Exercises
+Make the 2 column and Holy Grail layouts using absolute positioning. You will use a &lt;div> element for each box you make, and you will use the left, top, width, and height CSS properties to position them into place, using percentage units so that the layout will adjust to the size of the browser window. To allow you to see where the boxes are, you should give each box a different background color.
