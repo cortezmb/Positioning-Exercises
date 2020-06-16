@@ -1,0 +1,20 @@
+
+.twoColumns20{
+        border: 1px solid red;
+        position: absolute;
+        width: 20%;
+        text-align: center;
+        height: 100%;
+        line-height: 1000px;
+
+    }
+    
+.twoColumns80{
+        border: 1px solid blue;
+        position: absolute;
+        width: 80%;
+        text-align: center;
+        height: 100%;
+        line-height: 1000px;
+        left: 20.6%;
+    }
