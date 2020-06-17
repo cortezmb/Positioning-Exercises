@@ -1,4 +1,4 @@
-
+/* 2 Columns */
 .twoColumns20{
         border: 1px solid red;
         background-color: lightblue;
@@ -9,17 +9,18 @@
         line-height: 1000px;
     }
 
-    .twoColumns80{
-        border: 1px solid blue;
-        background-color: lightgreen;
-        position: absolute;
-        width: 80%;
-        text-align: center;
-        height: 100%;
-        line-height: 1000px;
-        left: 20.4%;
-    }
+.twoColumns80{
+    border: 1px solid blue;
+    background-color: lightgreen;
+    position: absolute;
+    width: 80%;
+    text-align: center;
+    height: 100%;
+    line-height: 1000px;
+    left: 20.4%;
+}
     
+/* 3 Columns */
 .threeColumns60{
         border: 1px solid blue;
         background-color: lightgreen;
@@ -31,13 +32,119 @@
         left: 20.4%;
     }
 
-    .thirdColumn20{
-        border: 1px solid green;
-        background-color: lightcoral;
-        position: absolute;
-        width: 20%;
-        text-align: center;
-        height: 100%;
-        line-height: 1000px;
-        left: 80.5%;
-    }
+.thirdColumn20{
+    border: 1px solid green;
+    background-color: lightcoral;
+    position: absolute;
+    width: 20%;
+    text-align: center;
+    height: 100%;
+    line-height: 1000px;
+    left: 80.5%;
+}
+
+    /* 9 Grids */
+.topLeft{
+    background-color: red;
+    color: white;
+    position: absolute;
+    width: 33.33%;
+    text-align: center;
+    height: 33.33%;
+    line-height: 400px;
+    left: 0;
+}
+
+.topCenter{
+    background-color: black;
+    color: white;
+    position: absolute;
+    width: 33.33%;
+    text-align: center;
+    height: 33.33%;
+    line-height: 400px;
+    left: 33.33%;
+}
+
+.topRight{
+    background-color: red;
+    color: white;
+    position: absolute;
+    width: 33.33%;
+    text-align: center;
+    height: 33.33%;
+    line-height: 400px;
+    left: 66.66%;
+}
+
+.middleLeft{
+    background-color: black;
+    color: white;
+    position: absolute;
+    width: 33.33%;
+    text-align: center;
+    height: 33.33%;
+    line-height: 400px;
+    left: 0;
+    top: 34%;
+}
+
+.middleCenter{
+    background-color: red;
+    color: white;
+    text-align: center;
+    position: absolute;
+    width: 33.33%;
+    height: 33.33%;
+    line-height: 400px;
+    left: 33.33%;
+    top: 34%;
+}
+
+.middleRight{
+    background-color: black;
+    color: white;
+    position: absolute;
+    width: 33.33%;
+    text-align: center;
+    height: 33.33%;
+    line-height: 400px;
+    left: 66.66%;
+    top: 34%;
+}
+
+.lowerLeft{
+    background-color: red;
+    color: white;
+    position: absolute;
+    width: 33.33%;
+    text-align: center;
+    height: 33.33%;
+    line-height: 400px;
+    left: 0;
+    top: 67%;
+}
+
+.lowerCenter{
+    background-color: black;
+    color: white;
+    position: absolute;
+    width: 33.33%;
+    text-align: center;
+    height: 33.33%;
+    line-height: 400px;
+    left: 33.33%;
+    top: 67%;
+}
+
+.lowerRight{
+    background-color: red;
+    color: white;
+    position: absolute;
+    width: 33.33%;
+    text-align: center;
+    height: 33.33%;
+    line-height: 400px;
+    left: 66.66%;
+    top: 67%;
+}
