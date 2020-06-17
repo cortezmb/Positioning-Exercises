@@ -1,0 +1,47 @@
+.header{
+    background-color: red;
+    color: white;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    height: 10%;
+    line-height: 120px;
+    left: 0;
+}
+
+.sidebar{
+    background-color: blue;
+    color: white;
+    float: left;
+    position: absolute;
+    width: 20%;
+    text-align: center;
+    height: 70%;
+    line-height: 1000px;
+    left: 0%;
+    top: 11%;
+}
+
+.mainContent{
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+    float: right;
+    width: 80%;
+    height: 50%;
+    line-height: 1000px;
+    left: 20%;
+    top: 12%;
+    right:5%;
+}
+
+.footer{
+    background-color: red;
+    color: white;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    height: 10%;
+    line-height: 140px;
+    left: 0;
+    bottom: 0;
